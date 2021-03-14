@@ -1,4 +1,10 @@
-<table>
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+  <center>
+  <table>
   <tr>
     <th>
       CONTEÚDOS ESTUDADOS
@@ -65,3 +71,7 @@
     </td>
   </tr>
 </table>
+</center>
+<hr>
+</body>
+</html>
