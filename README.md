@@ -46,6 +46,11 @@
   </tr>
    <tr>
     <td>
+      6.0 - Elasticsearch
+    </td>
+  </tr>
+   <tr>
+    <td>
       6.0 - AWS
     </td>
   </tr>
@@ -158,3 +163,17 @@ E em que serei beneficiado usando essa ferramenta ou qualquer outro Framework?
 * Segurança;
 * Linhas de códigos sem erros;
 * Economia de tempo.
+
+<hr>
+
+# 5.0 O que é Docker:
+
+Docker é uma ferramenta que trabalha com a "contenização" de máquinas virtuais. Máquinas estas que são bastante leves. Além disso, vale lembrar que contêiners são bastante fáceis de manusear, implantar, copiar e migrar para outros ambientes.
+
+Bom, explicando de uma forma mais grosseira e fácil de entender, Docker trabalha da seguinte forma: Ele cria uma máquina virtual no host local(em casos de utilização em computador pessoal), com esta máquina você pode aplicar as funcionalidades que deseja utilizar. Funcionalidades estas que podemos mencionar o MySQL, Apache e muitas outras. Com isso, você pode trabalhar com as aplicações que você ou sua equipe está desenvolvendo. Com isso, o trabalho acaba se tornando mais ágil rápido e seguro. Além disso, uma das maravilhas de se usar a ferramenta Docker é que, caso você trabalhe em grupo, basta apenas criar uma imagem da aplicação que você está desenvolvendo e enviar para o outro membro do seu grupo, ou seja, você vai "embrulhar"/"conteinizar" aquela sua aplicação e enviar para seu parceiro de trabalho.
+
+Assim, ele não precisará baixar as mesmas dependências que você tem em sua máquina ou também não precisará atualizar as que ele tem instalado na máquina dele(as dependencias já vão está salvas na imagem). Ou seja, as mesmas dependências que você está usando em sua máquina está na imagem do docker.
+
+> "Os contêineres do Docker fornecem uma maneira de controlar o software. Você pode usar o Docker para embrulhar um aplicativo de forma que seus problemas de implantação e tempo > de execução - como expô-lo em uma rede, como gerenciar seu uso de armazenamento e memória e E / S, como controlar as permissões de acesso - sejam tratados fora do próprio 
+> aplicativo e de forma consistente em todos os aplicativos “em contêineres”. Você pode executar seu contêiner do Docker em qualquer host compatível com o sistema operacional 
+> (Linux ou Windows) que tenha o tempo de execução do Docker instalado"([Infoworld](https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html)).
