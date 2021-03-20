@@ -21,37 +21,32 @@
   </tr>
   <tr>
     <td>
-      PostgreSQL
+      1.0 - PostgreSQL
     </td>
   </tr>
    <tr>
     <td>
-        Terraform
-    </td>
-  </tr>
-   <tr>
-    <td>
-      AWS Cloud
+      2.0 - Terraform
     </td>
   </tr>
     <tr>
     <td>
-      Docker
+      3.0 - Laravel
     </td>
   </tr>
     <tr>
     <td>
-      AWS
+      4.0 - Django
     </td>
   </tr>
   <tr>
     <td>
-      Django
+      5.0 - Docker
     </td>
   </tr>
    <tr>
     <td>
-      Elasticsearch
+      6.0 - AWS
     </td>
   </tr>
 </table>
@@ -101,4 +96,65 @@ Vamos entender um pouco... O Terraform é uma ferramenta utilizada principalment
 # 3.0 - Conhecendo o Laravel 👀🤔
 Certamente você já esteve desenvolvendo alguma aplicação web em que necessitou de conhecimentos em PHP, seja para realizar uma conexão no banco de dados ou algum outro tipo de interação Back-end. Juntamente a isso surgiram alguns probleminhas chatos, seja erros em linhas de códigos ou algum outro comando. Os Frameworks certamente vão lhe ajudar com esses problemas, como falado no meu post anterior(Veja aqui).
 
-O Laravel, acessível e poderoso, é mais um dos diversos frameworks que surgiram para dar uma ajudinha aos desenvolvedores. Ele, com uma sintaxe expressiva e elegante, foi desenvolvido para criar aplicações web na linguagem PHP. Além disso, ele facilita tarefas bastante utilizadas no desenvolvimento web, como por exemplo: autenticação, roteamento, sessões e cache. Vale lembrar que ele é ótimo para o desenvolvimento de aplicações grandes e robustas em que necessitam de uma maior segurança e precisão👨‍💻(Veja mais em Laravel.com).
+O Laravel, acessível e poderoso, é mais um dos diversos frameworks que surgiram para dar uma ajudinha aos desenvolvedores. Ele, com uma sintaxe expressiva e elegante, foi desenvolvido para criar aplicações web na linguagem PHP. Além disso, ele facilita tarefas bastante utilizadas no desenvolvimento web, como por exemplo: autenticação, roteamento, sessões e cache. Vale lembrar que ele é ótimo para o desenvolvimento de aplicações grandes e robustas em que necessitam de uma maior segurança e precisão👨‍💻(Veja mais em [Laravel.com](Laravel.com)).
+
+
+<hr>
+
+# 4.0 - O que é um Framework, para que serve ?🤔
+Para iniciarmos nosso assunto, temos que explicar sobre e para que serve um Framework e porque devemos usar um. Ok?
+
+Com certeza você já desenvolveu ou tentou desenvolver uma aplicação web do zero. Certamente é um trabalho árduo e complicadinho de se fazer, tanto Front-end como Back-end. Visando essa dificuldade, desenvolvedores viram o trabalho que tínhamos e optaram por facilitar a vida dessa massa de desenvolvedores.
+
+Frameworks são, basicamente, bibliotecas em que desenvolvedores possuem uma maior facilidade no desenvolvimento de determinadas aplicações. Diminuindo o tempo e a complexidade do desenvolvimento da aplicação que o programador esteja visando. Mas como isso funciona ? Basicamente eles possuem em si uma biblioteca de códigos em que são utilizados para ter uma maior rapidez e segurança no que está sendo desenvolvido. Ou seja, o Framework lhe propõe uma maior rapidez, facilidade e segurança no seu desenvolvimento.
+
+Vale lembrar que os Frameworks são ferramentas que podem se expandir em algumas áreas - tanto Front-end como Back-end. Estas, que por sua vez possuem uma rede imensa de linguagens. Ou seja, com eles podemos desenvolver com linguagem JavaScript, PHP, Python, Java, Ruby e etc...
+
+Frameworks JavaScript:
+
+### Front-end:
+
+* Angular;
+* Vue;
+* Ember.js;
+* React.
+
+### Back-end:
+
+* Express;
+* AdonisJs.
+
+
+### Frameworks para CSS:
+
+* Bootstrap;
+* Materialize.
+
+### Frameworks para PHP:
+
+* Laravel;
+* CodeIgniter;
+* Symfony;
+* CakePHP.
+
+### Framework para JAVA:
+
+* Spring;
+### Framework para Python:
+
+* Django.
+### Framework para Ruby:
+
+* RubyOnRails.
+
+## 4.1 O que é Django ?
+Agora vamos falar um pouco sobre o Django. Como já foi mencionado na parte 1.1, Frameworks são ferramentas que facilitam muito a vida do desenvolvedor na criação de suas aplicações. Por isso foram criadas diversas bibliotecas para facilitar esse trabalho e o Framework Django é uma delas.
+
+Essa ferramenta foi desenvolvida na linguagem de programação Python com a principal função de ajudar os desenvolvedores Web a criar aplicações com mais rapidez e segurança utilizando esta linguagem de programação tão robusta que é o Python. Vale lembrar que essa ferramenta é open source, ou seja, ela é gratuita e de código aberto, podendo ser utilizada por qualquer pessoa que deseja aprender sobre ela.
+
+E em que serei beneficiado usando essa ferramenta ou qualquer outro Framework?
+
+* Agilidade e Rapidez;
+* Segurança;
+* Linhas de códigos sem erros;
+* Economia de tempo.
