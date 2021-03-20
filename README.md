@@ -51,7 +51,7 @@
   </tr>
    <tr>
     <td>
-      6.0 - AWS
+      7.0 - AWS
     </td>
   </tr>
 </table>
@@ -177,3 +177,25 @@ Assim, ele não precisará baixar as mesmas dependências que você tem em sua m
 > "Os contêineres do Docker fornecem uma maneira de controlar o software. Você pode usar o Docker para embrulhar um aplicativo de forma que seus problemas de implantação e tempo > de execução - como expô-lo em uma rede, como gerenciar seu uso de armazenamento e memória e E / S, como controlar as permissões de acesso - sejam tratados fora do próprio 
 > aplicativo e de forma consistente em todos os aplicativos “em contêineres”. Você pode executar seu contêiner do Docker em qualquer host compatível com o sistema operacional 
 > (Linux ou Windows) que tenha o tempo de execução do Docker instalado"([Infoworld](https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html)).
+
+
+<hr>
+
+# 6.0 Elasticsearch
+Com a capacidade de tratar dados em tempo ral e com grande capacidade de armazenar dados, o elasticsearch é uma ferramenta de busca open source desenvolvida em Java que funciona como um banco de dados não relacional. Possui uma estrutura apoiada com HTTP e JSON. Podemos dizer que ela funciona da seguinte forma:
+
+Primeiramente os dados são armazenados e registrados em um banco de dados onde cada arquivo é analisado por um determinado algorítimo que verifica e separa cada termo com seus pontos-chaves. Com isso, é feito uma analise de quais pontos possuem maior ou menor relevância. Por fim, todos as palavras-chaves que possuiem relevancia e as que não possuem são filtradas e organizadas e mostradas em quais documentos elas mais aparecem. Só que isso é feito de uma forma muito rápida e ágil quando é feito a busca, fazendo com que ela se torne uma ferramenta de busca em tempo real.
+
+
+
+### Vantagens de usar elasticsearch:
+
+* ter acesso a dados quase em tempo real;
+
+* capacidade de lidar com dados em grande escala e muito mais;
+
+
+
+<hr>
+
+# 7.0 AWS
