@@ -10,7 +10,7 @@ Feito com ❤️ por Lucas Silva 👋🏽 Entre em contato!<br>
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](#)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-silva-a9582b188/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas_maciel82/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100014835663789)
 
 
-### Olá visitante👋.<br> Seja bem-vindo(a) ao README do meu perfil do GitHub
+# Olá visitante👋.<br> Seja bem-vindo(a) ao README do meu perfil do GitHub
 </div>
 
 
@@ -19,7 +19,7 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
 - 🍂 Procura sempre aprender coisas novas.
 - ✒️💻💥 Ama o mundo da programação 
 
-# Linguagens que você encontrará aqui:
+### Linguagens que você encontrará aqui:
 <table align="center">
   <tr>
     <td align="center">
@@ -46,7 +46,25 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
   </tr>
 </table>
 
-# Areas que você encontrará aqui
+### Frameworks que utilizo:
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### Areas que você encontrará aqui
 <table align="center">
   <tr>
     <td align="center">
@@ -54,6 +72,15 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
     </td>
     <td align="center">
       Desenvolvimento Web
+    </td>
+  </tr>
+</table>
+
+### Clouds
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     </td>
   </tr>
 </table>
