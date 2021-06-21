@@ -20,6 +20,7 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
 - 🌱 Uma pessoa simples que carrega consigo princípios bons.
 - 🍂 Procura sempre aprender coisas novas.
 - ✒️💻💥 Ama o mundo da programação 
+<div align="center">
 
 ### Areas que você encontrará aqui
 <table align="center">
@@ -32,8 +33,7 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
     </td>
   </tr>
 </table>
-
-
+  
 ### Linguagens que você encontrará aqui:
 <table align="center">
   <tr>
