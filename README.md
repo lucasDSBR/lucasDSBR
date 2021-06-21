@@ -7,7 +7,7 @@
 
 Feito com ❤️ por Lucas silva👋 Entre em contato!<br>
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>](#)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/lucas-silva-a9582b188/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/lucas_maciel82/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank">](https://www.facebook.com/profile.php?id=100014835663789 target="_blank")
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](#) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-silva-a9582b188/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/lucas_maciel82/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100014835663789)
 
 
 # Olá visitante👋.<br> Seja bem-vindo(a) ao README do meu perfil do GitHub
