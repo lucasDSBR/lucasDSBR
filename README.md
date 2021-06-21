@@ -5,7 +5,7 @@
 <sub><b>Lucas Silva(LucasDSBR)</b></sub></a> <a href="https://github.com/lucasDSBR" title="autor" target="_blank">🚀</a>
 
 
-Feito com ❤️ por Lucas Silva 👋🏽 Entre em contato!<br>
+Feito com ❤️ por Lucas silva👋 Entre em contato!<br>
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](#)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-silva-a9582b188/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas_maciel82/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100014835663789)
 
