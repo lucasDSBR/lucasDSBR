@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://github.com/lucasDSBR" target="_blank">
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76401911?v=4" width="100px;" alt="" style="border-radius: 20px;"/>
 <br />
-<sub><b>Lucas Silva(LucasDSBR)</b></sub></a> <a href="https://github.com/lucasDSBR" title="autor" target="_blank">🚀</a>
+<sub><b>Lucas Silva(LucasDSBR)</b></sub></a> <a href="https://github.com/lucasDSBR" title="autor" >🚀</a>
 
 
 Feito com ❤️ por Lucas silva👋 Entre em contato!<br>
