@@ -1,7 +1,8 @@
 <div align="center">
 <a href="https://github.com/lucasDSBR" target="_blank">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76401911?v=4" width="100px;" alt="" style="border-radius: 20px;"/>
-<br />
+
+# PARA CONHECER MAIS
+<br>
 <sub><b>Lucas Silva(LucasDSBR)</b></sub></a> <a href="https://github.com/lucasDSBR" title="autor" >🚀</a>
 
 
