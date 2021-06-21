@@ -85,4 +85,4 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
   </tr>
 </table>
 <hr>
-<h1 align="center">"Nunca é tarde de mais para aprender!"</h1>
+<h1 align="center">"Nunca é tarde para aprender!"</h1>
