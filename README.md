@@ -19,6 +19,19 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
 - 🍂 Procura sempre aprender coisas novas.
 - ✒️💻💥 Ama o mundo da programação 
 
+### Areas que você encontrará aqui
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Ciência de dados</h3>
+    </td>
+    <td align="center">
+      <h3>Desenvolvimento Web</h3>
+    </td>
+  </tr>
+</table>
+
+
 ### Linguagens que você encontrará aqui:
 <table align="center">
   <tr>
@@ -60,18 +73,6 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-### Areas que você encontrará aqui
-<table align="center">
-  <tr>
-    <td align="center">
-      Ciência de dados
-    </td>
-    <td align="center">
-      Desenvolvimento Web
     </td>
   </tr>
 </table>
