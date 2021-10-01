@@ -45,9 +45,6 @@ Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </td align="center">
     <td align="center">
-       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    </td>
-    <td align="center">
        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
     <td align="center">
