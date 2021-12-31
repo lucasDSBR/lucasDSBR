@@ -1,83 +1,25 @@
-<div align="center">
-
-<h1>PARA CONHECER MAIS</h1>
-<br>
-  
 
 
-
-
-# Olá visitante👋.<br> Seja bem-vindo(a) ao README do meu perfil
+# 👋 Olá visitante, me chamo Lucas Silva.
+## Bem vindo ao meu perfil GitHub
+<div>
+<a href="https://github.com/lucasDSBR">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasDSBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-Falarei aqui um poquinho sobre mim. Mas de uma forma bem rápida, para que você parta logo para meus repositórios. 
-- 🌱 Uma pessoa simples que carrega consigo princípios bons.
-- 🍂 Procura sempre aprender coisas novas.
-- ✒️💻💥 Ama o mundo da programação 
-<div align="center">
-
-### Areas que você encontrará aqui
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>Ciência de dados</h3>
-    </td>
-    <td align="center">
-      <h3>Desenvolvimento Web</h3>
-    </td>
-  </tr>
-</table>
   
-### Linguagens que você encontrará aqui:
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    </td>
-     <td align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    </td>
-     <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td align="center">
-    <td align="center">
-       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    </td>
-    <td align="center">
-       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-</table>
+- 🌱 Sou uma pessoa simples que carrega consigo princípios bons;
+- 🍂 Procuro sempre aprender coisas novas;
+- 💻 Amo o mundo da programação;
 
-### Frameworks que utilizo:
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-    </td>
-  </tr>
-</table>
 
-### Clouds
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    </td>
-  </tr>
-</table>
-<hr>
-<h1 align="center">"Nunca é tarde para aprender!"</h1>
+# Ferramentas e tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+
+
+# Contatos:
+<div>
+<a href="https://instagram.com/lucas_maciel82" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lucasmaciel6690@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-silva-a9582b188" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
