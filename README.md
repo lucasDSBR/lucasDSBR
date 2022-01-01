@@ -1,7 +1,7 @@
 
 
 # 👋 Olá visitante, me chamo Lucas Silva.
-## Bem vindo ao meu perfil GitHub
+## Bem vindo ao meu perfil do GitHub
 <div>
 <a href="https://github.com/lucasDSBR">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasDSBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
