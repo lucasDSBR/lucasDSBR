@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/lucasDSBR">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasDSBR&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&langs_count=50&theme=white"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&layout=compact&langs_count=50&theme=white"/>
 </div>
   
 - 🌱 Sou uma pessoa simples que carrega consigo princípios bons;
