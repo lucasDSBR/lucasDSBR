@@ -49,6 +49,12 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/></td>
   <td></td>
 </tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
+  <td></td>
+</tr>
 </tbody>
 </table>
 # Outras ferramentas/tecnologias:
