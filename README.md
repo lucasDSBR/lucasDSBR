@@ -3,10 +3,10 @@
 ## Bem vindo ao meu perfil do GitHub
 <div>
 <a href="https://github.com/lucasDSBR">
+<img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&layout=compact&langs_count=100&theme=white"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasDSBR&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&layout=compact&langs_count=100&theme=white"/>
 </div>
-  
+
 - 🌱 Sou uma pessoa simples que carrega consigo princípios bons;
 - 🍂 Procuro sempre aprender coisas novas;
 - 💻 Amo o mundo da programação;
