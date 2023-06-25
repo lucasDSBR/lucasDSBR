@@ -24,7 +24,7 @@
       dev.to
     </td>
     <td>
-      <a href="https://dev.to/lucasdsbr/connect-python-with-mysql-database-3ep0">Connect Python with MySQL database ( mysql-connector )</a>
+      <a href="https://dev.to/lucasdsbr/connect-python-with-mysql-database-3ep0" target="_blank" >Connect Python with MySQL database ( mysql-connector )</a>
     </td>
   </tr>
    <tr>
@@ -32,7 +32,7 @@
       Linkedin
     </td>
     <td>
-      <a href="https://www.linkedin.com/pulse/um-pouco-sobre-laravel-lucas-silva/?trackingId=LnG7xicvR7mRzSDVo3erPg%3D%3D">Um pouco sobre Laravel.</a>
+      <a href="https://www.linkedin.com/pulse/um-pouco-sobre-laravel-lucas-silva/?trackingId=LnG7xicvR7mRzSDVo3erPg%3D%3D" target="_blank" >Um pouco sobre Laravel.</a>
     </td>
   </tr>
    <tr>
@@ -40,7 +40,7 @@
       Linkedin
     </td>
     <td>
-      <a href="https://www.linkedin.com/pulse/postgresql-para-leigosb%25C3%25A1sico-lucas-silva/?trackingId=LnG7xicvR7mRzSDVo3erPg%3D%3D">PostgreSQL para leigos(básico) 😎 .</a>
+      <a href="https://www.linkedin.com/pulse/postgresql-para-leigosb%25C3%25A1sico-lucas-silva/?trackingId=LnG7xicvR7mRzSDVo3erPg%3D%3D" target="_blank" >PostgreSQL para leigos(básico) 😎 .</a>
     </td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@
       Linkedin
     </td>
     <td>
-      <a href="https://www.linkedin.com/pulse/django-o-que-%25C3%25A9-e-como-instalar-lucas-silva/?trackingId=LnG7xicvR7mRzSDVo3erPg%3D%3D">Django. O que é e como instalar ?</a>
+      <a href="https://www.linkedin.com/pulse/django-o-que-%25C3%25A9-e-como-instalar-lucas-silva/?trackingId=LnG7xicvR7mRzSDVo3erPg%3D%3D" target="_blank" >Django. O que é e como instalar ?</a>
     </td>
   </tr>
 </tbody>
