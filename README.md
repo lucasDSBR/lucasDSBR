@@ -63,6 +63,7 @@
   <th>LINGUAGENS</th>
   <th>FRAMEWORKS</th>
   <th>BANCO DE DADOS</th>
+  <th>ORM/Micro-ORMs</th>
   <th>OUTROS</th>
 </tr>
 </thead>
@@ -72,12 +73,14 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
+  <td>Entity Framework</td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
 </tr>
 <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
+  <td>Dapper</td>
   <td></td>
 </tr>
 <tr>
@@ -85,10 +88,12 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
@@ -97,9 +102,11 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/></td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -109,9 +116,11 @@
   <td></td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
