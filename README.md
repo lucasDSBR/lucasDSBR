@@ -63,7 +63,7 @@
   <th>LINGUAGENS</th>
   <th>FRAMEWORKS</th>
   <th>BANCO DE DADOS</th>
-  <th>ORM/Micro-ORMs</th>
+  <th>ODM/ORM/Micro-ORMs</th>
   <th>OUTROS</th>
 </tr>
 </thead>
