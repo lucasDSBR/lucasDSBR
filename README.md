@@ -55,7 +55,7 @@
 </table>
 
 
-# Ferramentas e tecnologias:
+# O que você vai encontrar aqui:
 <center>
 <table>
 <thead>
@@ -81,7 +81,7 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
   <td>Dapper</td>
-  <td></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></td>
 </tr>
 <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/></td>
