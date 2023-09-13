@@ -61,7 +61,7 @@
 <thead>
 <tr>
   <th>LINGUAGENS</th>
-  <th>FRAMEWORKS/BIBLIOTECAS</th>
+  <th>FRAMEWORKS/BIBLIOTECAS/INTERPRETADORES</th>
   <th>BANCO DE DADOS</th>
   <th>ODM/ORM/Micro-ORMs</th>
   <th>OUTROS</th>
