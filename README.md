@@ -63,7 +63,7 @@
   <th>LINGUAGENS</th>
   <th>FRAMEWORKS/BIBLIOTECAS/INTERPRETADORES</th>
   <th>BANCO DE DADOS</th>
-  <th>ODM/ORM/Micro-ORMs</th>
+  <th>ODM/ORM/Micro-ORMs/Query Builders</th>
   <th>OUTROS</th>
 </tr>
 </thead>
@@ -101,7 +101,7 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/></td>
   <td></td>
-  <td></td>
+  <td>Knex.js</td>
   <td></td>
 </tr>
 <tr>
