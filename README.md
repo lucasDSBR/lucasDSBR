@@ -54,8 +54,6 @@
 </tbody>
 </table>
 
-
-
 # What you will find here:
 <div align="center">
 <b>FRAMEWORKS/LIBRARIES/INTERPRETERS</b>
@@ -102,7 +100,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-  
+<b>Best Projects</b>
+<div align="center">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=Carga-Horaria-Docentes-UNILAB)](https://github.com/lucasDSBR/Carga-Horaria-Docentes-UNILAB)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=app-pagseguro)](https://github.com/lucasDSBR/app-pagseguro )
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=App-lista-bus-UNILAB_ionic)](https://github.com/lucasDSBR/App-lista-bus-UNILAB_ionic)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=WhileDGP)](https://github.com/lucasDSBR/WhileDGP)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=PlagDetect_Desktop)](https://github.com/lucasDSBR/PlagDetect_Desktop)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=API_NodeJS_MongoDB)](https://github.com/lucasDSBR/API_NodeJS_MongoDB)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=PlagDetect_WEB)](https://github.com/lucasDSBR/PlagDetect_WEB)
+</div>
 
 # Contacts:
   
