@@ -100,9 +100,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-<b>Best Projects</b>
-<div align="center">
 
+<div align="center">
+  <b>Best Projects</b>
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=Carga-Horaria-Docentes-UNILAB)](https://github.com/lucasDSBR/Carga-Horaria-Docentes-UNILAB)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=app-pagseguro)](https://github.com/lucasDSBR/app-pagseguro )
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasDSBR&repo=App-lista-bus-UNILAB_ionic)](https://github.com/lucasDSBR/App-lista-bus-UNILAB_ionic)
