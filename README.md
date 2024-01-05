@@ -1,10 +1,13 @@
 
 # 👋 Hello, My name is Lucas Maciel.
 ## Welcome to my profile in GitHub
-<div>
+<div align="center">
 <a href="https://github.com/lucasDSBR">
-<img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&layout=compact&langs_count=100&theme=white"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasDSBR&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&hide_progress=true&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasDSBR&show_icons=true)
+
 </div>
 
 - 🌱 I am a simple person who carries good principles with me;
