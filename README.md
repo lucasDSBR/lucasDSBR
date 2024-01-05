@@ -1,21 +1,21 @@
 
-# 👋 Olá visitante, me chamo Lucas Silva.
-## Bem vindo ao meu perfil do GitHub
+# 👋 Hello, My name is Lucas Maciel.
+## Welcome to my profile in GitHub
 <div>
 <a href="https://github.com/lucasDSBR">
 <img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasDSBR&layout=compact&langs_count=100&theme=white"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasDSBR&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div>
 
-- 🌱 Sou uma pessoa simples que carrega consigo princípios bons;
-- 🍂 Procuro sempre aprender coisas novas;
-- 💻 Amo o mundo da programação;
-# Artigos publicados em comunidades:
+- 🌱 I am a simple person who carries good principles with me;
+- 🍂 I always try to learn new things;
+- 💻 I love the world of programming;
+# Articles published in communities:
 <table>
 <thead>
 <tr>
-  <th>Comunidade</th>
-  <th>Artigo</th>
+  <th>Community</th>
+  <th>Article</th>
 </tr>
 </thead>
 <tbody>
@@ -55,16 +55,16 @@
 </table>
 
 
-# O que você vai encontrar aqui:
+# What you will find here:
 <center>
 <table>
 <thead>
 <tr>
   <th>LINGUAGENS</th>
-  <th>FRAMEWORKS/BIBLIOTECAS/INTERPRETADORES</th>
-  <th>BANCO DE DADOS</th>
+  <th>FRAMEWORKS/LIBRARIES/INTERPRETERS</th>
+  <th>DATABASE</th>
   <th>ODM/ORM/Micro-ORMs/Query Builders</th>
-  <th>OUTROS</th>
+  <th>Others</th>
 </tr>
 </thead>
 <tbody>
@@ -130,7 +130,7 @@
 </center>
   
 
-# Contatos:
+# Contacts:
   
 <div>
 <a href="https://instagram.com/lucasmaciel.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
