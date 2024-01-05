@@ -58,7 +58,7 @@
 
 # What you will find here:
 <div align="center">
-FRAMEWORKS/LIBRARIES/INTERPRETERS
+<b>FRAMEWORKS/LIBRARIES/INTERPRETERS</b>
   
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
@@ -69,7 +69,8 @@ FRAMEWORKS/LIBRARIES/INTERPRETERS
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-LANGUAGES:
+
+<b>LANGUAGES</b>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -80,13 +81,13 @@ LANGUAGES:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-DATABASES
+<b>DATABASES</b>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-ODM/ORM/Micro-ORMs/Query Builders
+<b>ODM/ORM/Micro-ORMs/Query Builders</b>
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![EntityFramework](https://img.shields.io/badge/Entity_Framework-52B0E7?style=for-the-badge&logo=EntityFramework&logoColor=white)
@@ -95,7 +96,7 @@ ODM/ORM/Micro-ORMs/Query Builders
 ![Knexjs](https://img.shields.io/badge/Knexjs-%23ED8B00?style=for-the-badge&logo=Knexjs&logoColor=white)
 
 
-Others
+<b>Others</b>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
